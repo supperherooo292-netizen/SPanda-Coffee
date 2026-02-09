@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Coffee Shop Website UI
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# SPanda-Coffee
+>>>>>>> 8eb71d8e3a57b5fd475f299e595531fa923f58f9
